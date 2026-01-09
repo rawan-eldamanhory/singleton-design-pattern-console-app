@@ -15,6 +15,7 @@ The Singleton Pattern ensures that a class has **only one instance** and provide
 Singleton s1 = Singleton.GetInstance();
 Singleton s2 = Singleton.GetInstance();
 Console.WriteLine(s1 == s2); // True
+```
 
 ## Output
 True
