@@ -4,7 +4,7 @@ This project demonstrates the **Singleton Design Pattern** implemented in C#.
 
 ## What is the Singleton Pattern?
 The Singleton Pattern ensures that a class has **only one instance** and provides a global access point to it.
-
+ 
 ## Implementation Details
 - Private constructor to prevent direct instantiation
 - Static instance variable
